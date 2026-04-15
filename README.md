@@ -66,7 +66,7 @@ Encrypted Tunnel: All remote traffic is protected by IPsec.
 Access Restored: Remote Desktop is fully functional over the VPN tunnel.
 Reduced Attack Surface: RDP ports are strictly limited to verified VPN clients.
 
-<img a href="photos/1.png">
+<img href="photos/1.png">
 
 
 
