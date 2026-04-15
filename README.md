@@ -62,7 +62,7 @@ Security Impact: This ensures the PC drops any RDP packets not originating from 
 ### 3. Profile Adjustment
 Because L2TP tunnels can be classified as "Public" by Windows, the rule was enabled for Domain, Private, and Public profiles. Security is maintained through the IP Scope rather than the network profile.
 
-## `Phase 3: Troubleshooting & Validation
+## Phase 3: Troubleshooting & Validation
 During implementation, the command sudo swanctl --log was used on the EdgeRouter to diagnose Phase 1 IKE failures.
 Diagnostic Command: sudo swanctl --log
 Initial Error Identified: invalid ID_V1 payload length, decryption failed?.
