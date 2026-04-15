@@ -1,4 +1,4 @@
-#Project: Secure Remote Access via L2TP VPN and Scoped RDP
+# Project: Secure Remote Access via L2TP VPN and Scoped RDP
 ##Project Overview
 The objective of this project was to establish a secure method for accessing a home workstation from a remote macOS client. By utilizing an EdgeRouter as a VPN gateway and hardening the Windows host firewall , the project eliminated the need for insecure port forwarding while implementing "Least Privilege" access controls.
 
